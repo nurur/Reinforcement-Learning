@@ -1,6 +1,8 @@
 # Reinforcement-Learning
 
-The repo contains python scripts of various multi-arm bandit algorithms.
+The repo contains python scripts of various multi-arm bandit (MAB) algorithms. The MAB algorithms can be used in parallel 
+with various AB testing stretagies to optimize marketing efforts.   
+
 
 Useful Texts :
 1. Reinforcement Learning, An Introduction : Richard S. Sutton, Andrew G. Barto
