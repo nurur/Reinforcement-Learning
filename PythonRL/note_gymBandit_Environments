@@ -1,0 +1,15 @@
+BanditTwoArmedDeterministicFixed-v0: Simplest case where one bandit always pays, and the other always doesn't
+
+BanditTwoArmedHighLowFixed-v0 : Stochastic version with a large difference between which bandit pays out of two choices
+
+BanditTwoArmedHighHighFixed-v0 : Stochastic version with a small difference between which bandit pays where both are good
+
+BanditTwoArmedLowLowFixed-v0 : Stochastic version with a small difference between which bandit pays where both are bad
+
+BanditTenArmedRandomFixed-v0 : 10 armed bandit with random probabilities assigned to payouts
+
+BanditTenArmedRandomRandom-v0 : 10 armed bandit with random probabilities assigned to both payouts and rewards
+
+BanditTenArmedUniformDistributedReward-v0: 10 armed bandit with reward selected from a uniform distribution
+
+BanditTenArmedGaussian-v0 : 10 armed bandit with reward selected from a gaussian distribution
